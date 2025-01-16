@@ -66,20 +66,6 @@ const Product = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
               <div className="flex flex-start">
                 <div>
-                  {productData?.images?.map((item, index) => (
-                    <img
-                      src={item}
-                      alt="img"
-                      key={index}
-                      className={`w-24 cursor-pointer opacity-80 hover:opacity-100 duration-300 ${
-                        imgUrl === item &&
-                        "border border-gray-500 rounded-sm opacity-100"
-                      }`}
-                      onClick={() => setImgUrl(item)}
-                    />
-                  ))}
-                </div>
-                <div>
                   <img src={imgUrl} alt="mainImage" />
                 </div>
               </div>
