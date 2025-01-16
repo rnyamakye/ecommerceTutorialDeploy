@@ -7,7 +7,7 @@ const checkConfig = (server: string): Config | {} => {
   switch (server) {
     case "production":
       config = {
-        baseURL: "https://ecommerce-tutorial-deploy.vercel.app",
+        baseURL: "https://ecommercetutorial.onrender.com",
       };
       break;
     case "local":
