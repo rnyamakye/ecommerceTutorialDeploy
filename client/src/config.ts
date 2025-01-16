@@ -7,7 +7,8 @@ const checkConfig = (server: string): Config | {} => {
   switch (server) {
     case "production":
       config = {
-        baseURL: "https://ecommercetutorial.onrender.com",
+        baseURL:
+          "https://ecommercebackend--ecommerce-tutorial-817f2.asia-east1.hosted.app",
       };
       break;
     case "local":
