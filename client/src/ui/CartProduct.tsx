@@ -36,7 +36,7 @@ const CartProduct = ({ product }: { product: ProductProps }) => {
             <p className="text-xs">
               Category: <span className="font-medium">{product?.category}</span>
             </p>
-            <div className="flex items-center gap-6 mt-2">
+            <div className="flex flex-col md:flex-row items-center gap-6 mt-2">
               <p className="text-base font-semibold">
                 <FormattedPrice
                   amount={product?.discountedPrice * product?.quantity}

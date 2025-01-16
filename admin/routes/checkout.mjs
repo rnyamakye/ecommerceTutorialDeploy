@@ -29,8 +29,8 @@ router.post("/checkout", async (req, res) => {
       line_items: extractingItems,
       mode: "payment",
       success_url:
-        "https://ecommerce-tutorial-hkfr.vercel.app/success?session_id={CHECKOUT_SESSION_ID}",
-      cancel_url: "https://ecommerce-tutorial-hkfr.vercel.app/cancel",
+        "https://ecommerce-tutorial-38m7.vercel.app/success?session_id={CHECKOUT_SESSION_ID}",
+      cancel_url: "https://ecommerce-tutorial-38m7.vercel.app/cancel",
       metadata: {
         email,
       },
