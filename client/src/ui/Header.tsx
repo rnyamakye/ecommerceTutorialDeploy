@@ -132,13 +132,13 @@ const Header = () => {
           </Link>
           <Link to={"/favorite"} className="relative block">
             <FiStar className="hover:text-skyText duration-200 cursor-pointer" />
-            <span className="inline-flex items-center justify-center bg-skyText text-blackText absolute -top-1 -right-2 text-[9px] w-4 h-4 rounded-full">
+            <span className="inline-flex items-center justify-center bg-redText text-blackText absolute -top-1 -right-2 text-[9px] w-4 h-4 rounded-full">
               {favoriteProduct?.length > 0 ? favoriteProduct?.length : "0"}
             </span>
           </Link>
           <Link to={"/cart"} className="relative block">
             <FiShoppingBag className="hover:text-skyText duration-200 cursor-pointer" />
-            <span className="inline-flex items-center justify-center bg-skyText text-blackText absolute -top-1 -right-2 text-[9px] w-4 h-4 rounded-full">
+            <span className="inline-flex items-center justify-center bg-redText text-blackText absolute -top-1 -right-2 text-[9px] w-4 h-4 rounded-full">
               {cartProduct?.length > 0 ? cartProduct?.length : "0"}
             </span>
           </Link>
