@@ -42,7 +42,7 @@ const Categories = () => {
             <Link
               key={item?._id}
               to={`category/${item?._base}`}
-              className="w-full h-auto relative group overflow-hidden"
+              className="w-full lg:h-auto h-60 relative group overflow-hidden"
             >
               <img
                 src={item?.image}

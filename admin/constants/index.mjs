@@ -16,7 +16,7 @@ export const categories = [
   {
     _id: 1001,
     name: "TV & Audio",
-    image: "https://d2oe4z990jupbo.cloudfront.net/tv & audio.jpeg",
+    image: "https://d2oe4z990jupbo.cloudfront.net/tv-&-audio.png",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "tvAndAudio",
@@ -24,7 +24,7 @@ export const categories = [
   {
     _id: 1002,
     name: "TV Box",
-    image: "https://d2oe4z990jupbo.cloudfront.net/tv box.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/tv-box.png",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "tvBox",
@@ -64,8 +64,7 @@ export const categories = [
   {
     _id: 1007,
     name: "Game & Video",
-    image:
-      "https://d2oe4z990jupbo.cloudfront.net/ony PS4 Controller Bluetooth Vibration Gamepad For.jpg",
+    image: "https://d2oe4z990jupbo.cloudfront.net/controller.png",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "gameAndVideo",
@@ -82,7 +81,7 @@ export const categories = [
   {
     _id: 1009,
     name: "Sport Watches",
-    image: "https://d2oe4z990jupbo.cloudfront.net/sport watches.jpg",
+    image: "https://d2oe4z990jupbo.cloudfront.net/sports-watches.png",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "sportWatches",
@@ -90,7 +89,7 @@ export const categories = [
   {
     _id: 1010,
     name: "Tablets",
-    image: "https://d2oe4z990jupbo.cloudfront.net/tablets.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/tablet.png",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "tablets",
@@ -364,7 +363,7 @@ export const products = [
     _id: 2010,
     name: "Global Version Redmi Note 9 Pro 6GB RAM 64GB ROM Smartphone Mobile Phone",
     images: [
-      "https://d2oe4z990jupbo.cloudfront.net/Global Version Redmi Note 9 Pro 6GB RAM 64GB ROM.jpg",
+      "https://d2oe4z990jupbo.cloudfront.net/Global Version Redmi Note 9 Pro 6GB RAM 64GB ROM.webp",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -511,7 +510,7 @@ export const products = [
     _id: 2017,
     name: "Global Version Mi TV Stick Android TV 9.0 Smart 2K HDR 1GB RAM 8GB ROM Bluetooth 4.2 Mini TV Dongle",
     images: [
-      "https://d2oe4z990jupbo.cloudfront.net/Global Version Mi TV Stick Android TV 9.0 Smart 2K HDR.jpg",
+      "https://d2oe4z990jupbo.cloudfront.net/Global Version Redmi Note 9 Pro 6GB RAM 64GB ROM.webp",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -574,7 +573,7 @@ export const products = [
     _id: 2020,
     name: "Global Version Redmi Note 9 Pro 6GB RAM 64GB ROM Smartphone Mobile Phone",
     images: [
-      "/clienthttps://d2oe4z990jupbo.cloudfront.net/Global Version Redmi Note 9 Pro 6GB RAM 64GB ROM.jpg",
+      "https://d2oe4z990jupbo.cloudfront.net/Global Version Redmi Note 9 Pro 6GB RAM 64GB ROM.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
