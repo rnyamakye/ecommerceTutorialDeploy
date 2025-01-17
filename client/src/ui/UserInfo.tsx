@@ -7,9 +7,9 @@ const UserInfo = ({ currentUser }: UserTypes) => {
   console.log(currentUser);
 
   return (
-    <Container className="py-5 text-white">
+    <Container className="md:py-5 text-white">
       <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-24 shadow-2xl sm:rounded-3xl sm:px-16">
-        <div className="flex flex-col sm:flex-row items-center gap-5 sm:gap-10">
+        <div className="flex flex-col md:flex-row items-center gap-5 sm:gap-10">
           <img
             src={
               currentUser?.avatar
@@ -36,7 +36,7 @@ const UserInfo = ({ currentUser }: UserTypes) => {
             </p>
           </div>
         </div>
-        <div className="mt-10 flex items-center gap-x-5 px-4">
+        <div className="mt-5 md:mt-10 flex flex-col md:flex-row items-center gap-5 px-4">
           <button
             onClick={() =>
               toast.error("Edit profile option available to pro version!")
