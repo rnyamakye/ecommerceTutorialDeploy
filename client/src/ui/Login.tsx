@@ -55,8 +55,8 @@ const Login = ({ setLogin }: { setLogin: any }) => {
           </p>
         </div>
         <div className="border-b border-b-white/10 pb-5">
-          <div className="mt-5 grid grid-cols-1 gap-x-6 gap-y-5 sm:grid-cols-6">
-            <div className="sm:col-span-3">
+          <div className="mt-5 grid grid-cols-1 gap-x-6 gap-y-5 md:flex ">
+            <div className="sm:col-span-3 md:flex-1">
               <Label title="Email address" htmlFor="email" />
               <input
                 type="email"
@@ -64,7 +64,7 @@ const Login = ({ setLogin }: { setLogin: any }) => {
                 className="block w-full rounded-md border-0 bg-white/5 py-1.5 px-4 outline-none text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-skyText sm:text-sm sm:leading-6 mt-2"
               />
             </div>
-            <div className="sm:col-span-3">
+            <div className="sm:col-span-3 md:flex-1">
               <Label title="Password" htmlFor="password" />
               <input
                 type="password"

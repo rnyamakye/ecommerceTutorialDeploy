@@ -23,12 +23,13 @@ const Hightlights = () => {
   return (
     <Container className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       {highlightsData.map((item: HighlightsType) => (
-        <div
+        <Link
+          to={item?._base}
           key={item?._id}
           className="relative h-60 rounded-lg shadow-md cursor-pointer overflow-hidden group"
         >
           <div
-            className="absolute inset-0 bg-cover bg-center rounded-lg transition-transform duration-300 group-hover:scale-110"
+            className="absolute inset-0 bg-cover bg-right rounded-lg transition-transform duration-300 group-hover:scale-110"
             style={{
               backgroundImage: `url(${item?.image})`,
               color: item?.color,
@@ -49,7 +50,7 @@ const Hightlights = () => {
               {item?.buttonTitle}
             </Link>
           </div>
-        </div>
+        </Link>
       ))}
     </Container>
   );

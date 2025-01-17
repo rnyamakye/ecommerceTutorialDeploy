@@ -16,7 +16,7 @@ export const categories = [
   {
     _id: 1001,
     name: "TV & Audio",
-    image: "https://i.ibb.co/kM0FR2h/cat-Tv-Audio.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/tv & audio.jpeg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "tvAndAudio",
@@ -24,7 +24,7 @@ export const categories = [
   {
     _id: 1002,
     name: "TV Box",
-    image: "https://i.ibb.co/71hR65V/catTvBox.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/tv box.webp",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "tvBox",
@@ -32,7 +32,7 @@ export const categories = [
   {
     _id: 1003,
     name: "Power Tools",
-    image: "https://i.ibb.co/0V0g6Gz/cat-Powertool.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/power tools.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "powerTools",
@@ -40,7 +40,7 @@ export const categories = [
   {
     _id: 1004,
     name: "Headphones",
-    image: "https://i.ibb.co/zST2Xdp/cat-Headphone.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/heaphones.png",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "headphones",
@@ -48,7 +48,7 @@ export const categories = [
   {
     _id: 1005,
     name: "Cell Phones",
-    image: "https://i.ibb.co/jgk59BL/catPhone.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/phone.png",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "cellPhones",
@@ -56,7 +56,7 @@ export const categories = [
   {
     _id: 1006,
     name: "Smart Watches",
-    image: "https://i.ibb.co/B4NKfBZ/cat-Smart-Watch.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/smart watches.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "smartWatches",
@@ -64,7 +64,8 @@ export const categories = [
   {
     _id: 1007,
     name: "Game & Video",
-    image: "https://i.ibb.co/4gwLwT2/cat-Gaming.webp",
+    image:
+      "https://d2oe4z990jupbo.cloudfront.net/ony PS4 Controller Bluetooth Vibration Gamepad For.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "gameAndVideo",
@@ -72,7 +73,8 @@ export const categories = [
   {
     _id: 1008,
     name: "Robot Clean",
-    image: "https://i.ibb.co/xjpdQrr/cat-Robot-Clean.webp",
+    image:
+      "https://d2oe4z990jupbo.cloudfront.net/Roborock S7 Robot Vacuum Cleaner For Home Sonic.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "robotClean",
@@ -80,7 +82,7 @@ export const categories = [
   {
     _id: 1009,
     name: "Sport Watches",
-    image: "https://i.ibb.co/HdNVLzh/cat-Sport-Watch.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/sport watches.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "sportWatches",
@@ -88,7 +90,7 @@ export const categories = [
   {
     _id: 1010,
     name: "Tablets",
-    image: "https://i.ibb.co/qCzTx4F/cat-Tablet.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/tablets.webp",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "tablets",
@@ -96,7 +98,7 @@ export const categories = [
   {
     _id: 1011,
     name: "Computers & Laptop",
-    image: "https://i.ibb.co/74bZ8PH/cat-Computer.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/computers and laptops.jpg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "computersAndLaptop",
@@ -104,7 +106,7 @@ export const categories = [
   {
     _id: 1012,
     name: "Cameras & Photos",
-    image: "https://i.ibb.co/SVQVWSS/cat-Camera.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/camera and photos.jpeg",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore.",
     _base: "camerasAndPhotos",
@@ -117,16 +119,16 @@ export const highlightsProducts = [
     name: "New Deals at Best Prices",
     title: "From $40.00",
     buttonTitle: "Browse Deals",
-    image: "https://i.ibb.co/G951N5B/highlights-One.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/headphones.jpg",
     _base: "/product",
-    color: "#000000",
+    color: "#ffffff",
   },
   {
     _id: 3002,
     name: "Colorful Redmi  Note 6 Pro",
     title: "From $40.00",
     buttonTitle: "Shop Cellphone",
-    image: "https://i.ibb.co/bLRNKGq/highlights-Two.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/phone.jpeg",
     _base: "/category/cellPhones",
     color: "#ffffff",
   },
@@ -135,7 +137,7 @@ export const highlightsProducts = [
     name: "1000 mAh Power Bank",
     title: "From $40.00",
     buttonTitle: "Shop Now",
-    image: "https://i.ibb.co/svWYstT/highlights-Three.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/power-bank.jpg",
     _base: "/product",
     color: "#ffffff",
   },
@@ -144,7 +146,7 @@ export const highlightsProducts = [
 export const blogsData = [
   {
     _id: 4001,
-    image: "https://i.ibb.co/XbQf5HS/blogOne.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/blog-1-img.jpg",
     title: "iPhone 15 rear camera design will be available",
     _base: "Technology",
     description:
@@ -152,7 +154,7 @@ export const blogsData = [
   },
   {
     _id: 4002,
-    image: "https://i.ibb.co/wzNpcwp/blogTwo.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/blog-2-img.jpeg",
     title: "Setup your surround sound speaker",
     _base: "Samrt thing",
     description:
@@ -160,7 +162,7 @@ export const blogsData = [
   },
   {
     _id: 4003,
-    image: "https://i.ibb.co/prdZ3s8/blog-Three.webp",
+    image: "https://d2oe4z990jupbo.cloudfront.net/blog-3-img.jpeg",
     title: "Hook up a receiver for your home theater",
     _base: "Life style",
     description:
@@ -173,11 +175,7 @@ export const products = [
     _id: 2001,
     name: "Divoom Tivoo Portable Bluetooth Speaker Smart Clock Alarm Pixel Art DIY By App LED Light Sign In Decoration Unique Gift",
     images: [
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Divoom Tivoo Portable Bluetooth Speaker Smart.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -198,11 +196,7 @@ export const products = [
     _id: 2002,
     name: "Xiaomi Mi Watch Lite GPS Bluetooth 5.1 Smart Watch Sports Fitness Heart Rate Monitor 1.4 Inch TFTLCD Screen 5 ATM Waterproof Mi Band",
     images: [
-      "https://i.ibb.co/2tCN9cy/watch-Three.jpg",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Xiaomi Mi Watch Lite GPS Bluetooth 5.1 Smart Watch.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -223,11 +217,7 @@ export const products = [
     _id: 2003,
     name: "Fitness M3 Color Screen Smart Sport Bracelet Activity Running Tracker Heart Rate For Children Men Women Watch For IOS Android",
     images: [
-      "https://i.ibb.co/NrG9wxw/sport-Watch.jpg",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Fitness M3 Color Screen Smart Sport Bracelet Activity Runnin.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -248,11 +238,7 @@ export const products = [
     _id: 2004,
     name: "SJ8 Air 1290P 4K 60fps Action Camera WIFI Remote Control Waterproof Sports DV FPV Camera",
     images: [
-      "https://i.ibb.co/bQ59C0n/wifi-Camera.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/SJ8 Air 1290P 4K 60fps Action Camera WIFI Remote Control.png",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -263,7 +249,7 @@ export const products = [
     reviews: 120,
     category: "Camera & Photos",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "SJCAM",
     isStock: false,
     overView: "Cameras & Photos",
     isNew: false,
@@ -273,11 +259,7 @@ export const products = [
     _id: 2005,
     name: "Redmi Xiaoai Speaker Play 2.4GHz 1.75 Inch Voice Remote Control Music Player Bluetooth 4.2 Mi Speaker For Android Iphone",
     images: [
-      "https://i.ibb.co/tqYyH3G/speaker.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Redmi Xiaoai Speaker Play 2.4GHz 1.75 Inch Voice Remote.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -288,7 +270,7 @@ export const products = [
     reviews: 20,
     category: "TV & Audio",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Xiaomi",
     isStock: true,
     overView: "Blutooth Speaker",
     isNew: true,
@@ -298,11 +280,7 @@ export const products = [
     _id: 2006,
     name: "Xiaomi Mi Watch Lite GPS Bluetooth 5.1 Smart Watch Sports Fitness Heart Rate Monitor 1.4 Inch TFTLCD Screen 5 ATM Waterproof Mi Band",
     images: [
-      "https://i.ibb.co/1TJp88p/smart-Watch.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Xiaomi Mi Watch Lite GPS Bluetooth 5.1 Smart Watch.webp",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -313,7 +291,7 @@ export const products = [
     reviews: 110,
     category: "Smart Watches",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Xiaomi",
     isStock: true,
     overView: "Smart health watch",
     isNew: false,
@@ -323,11 +301,7 @@ export const products = [
     _id: 2007,
     name: "Kinganda BT513 Foldable Bluetooth Headphones With Mic",
     images: [
-      "https://i.ibb.co/qs8yhPB/headphone.jpg",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Kinganda BT513 Foldable Bluetooth Headphones With.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -338,7 +312,7 @@ export const products = [
     reviews: 60,
     category: "Headphones & Speakers",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Kinganda",
     isStock: true,
     overView: "Microphones",
     isNew: true,
@@ -346,13 +320,9 @@ export const products = [
   },
   {
     _id: 2008,
-    name: "New Product Form Lapbook Light Handlift Business Office Game Ben EDP 13.5 In – Black China",
+    name: "New Product Form Lapbook Light Handlift Business Office Game Ben EDP 13.5 ",
     images: [
-      "https://i.ibb.co/RCHWqkS/laptop.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/New Product Form Lapbook Light Handlift Business Office Game Ben EDP 13.5 In – Black.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -373,11 +343,7 @@ export const products = [
     _id: 2009,
     name: "VIOMI V2 Pro LDS Sensor 2 In 1 Sweeping Mopping Robot Wet And Dry Vacuum Cleaner 2100Pa Strong Suction Self-Charging",
     images: [
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/VIOMI V2 Pro LDS Sensor 2 In 1 Sweeping Mopping Robot Wet.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -386,11 +352,11 @@ export const products = [
     quantity: 1,
     rating: 4.2,
     reviews: 70,
-    category: "Robot Clean",
+    category: "Robot Vacuum Cleaner",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "VIOMI",
     isStock: true,
-    overView: "Robot Clean",
+    overView: "Robot Vacuum Cleaner",
     isNew: true,
     _base: cat?.robotClean,
   },
@@ -398,11 +364,7 @@ export const products = [
     _id: 2010,
     name: "Global Version Redmi Note 9 Pro 6GB RAM 64GB ROM Smartphone Mobile Phone",
     images: [
-      "https://i.ibb.co/sK9yYnY/phone.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Global Version Redmi Note 9 Pro 6GB RAM 64GB ROM.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -413,7 +375,7 @@ export const products = [
     reviews: 160,
     category: "Cell Phones",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Redmi",
     isStock: true,
     overView: "Cual Sim Phones",
     isNew: true,
@@ -423,11 +385,7 @@ export const products = [
     _id: 2011,
     name: "DIDSeth Pan Tilt Security Light Camera Full HD 1080P Wireless Wi-Fi IP Camera Home Dome Surveillance Cameras",
     images: [
-      "https://i.ibb.co/SX8wF1V/camera.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/DIDSeth Pan Tilt Security Light Camera Full HD 1080P Wireles.webp",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -438,7 +396,7 @@ export const products = [
     reviews: 250,
     category: "Cameras & Photos",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "DIDSeth",
     isStock: true,
     overView: "Security & Protection",
     isNew: true,
@@ -448,11 +406,7 @@ export const products = [
     _id: 2012,
     name: "Electric Hot Melt Glue Gun Cordless Repair DIY Tool Heating Mini Glue Gun With Glue Sticks",
     images: [
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Electric Hot Melt Glue Gun Cordless Repair DIY Tool.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -463,7 +417,7 @@ export const products = [
     reviews: 90,
     category: "Power Tools",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Worx",
     isStock: true,
     overView: "Power Tools",
     isNew: true,
@@ -473,11 +427,7 @@ export const products = [
     _id: 2013,
     name: "MECOOL KH3 Android 10.0 Smart 4K 60fps TV Box – Black 2GB RAM + 16GB ROM",
     images: [
-      "https://i.ibb.co/vqmLWww/tvBox.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/MECOOL KH3 Android 10.0 Smart 4K 60fps TV Box – Blac.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -488,7 +438,7 @@ export const products = [
     reviews: 100,
     category: "TV Box",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "MECOOL",
     isStock: true,
     overView: "TV Box",
     isNew: true,
@@ -498,11 +448,7 @@ export const products = [
     _id: 2014,
     name: "Sony PS4 Controller Bluetooth Vibration Gamepad For Playstation 4 Detroit Wireless Joystick For PS4 Games Consol",
     images: [
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Sony PS4 Controller Bluetooth Vibration Gamepad For.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -513,7 +459,7 @@ export const products = [
     reviews: 110,
     category: "Game and Video",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Sony",
     isStock: true,
     overView: "Game & Video",
     isNew: true,
@@ -523,11 +469,7 @@ export const products = [
     _id: 2015,
     name: "GSR 120-Li Hand Drill 12V Lithium Drill Household Power Tool Screwdriver With One Battery – GSR120-LI 1Battery",
     images: [
-      "https://i.ibb.co/NxM3M4g/hand-Drill.jpg",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/GSR 120-Li Hand Drill 12V Lithium Drill Household Power.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -538,7 +480,7 @@ export const products = [
     reviews: 300,
     category: "Power Tools",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "GSR",
     isStock: true,
     overView: "Power Tools",
     isNew: true,
@@ -548,11 +490,7 @@ export const products = [
     _id: 2016,
     name: "Xiaomi Mi Outdoor Speaker Bluetooth 5.0 IP55 Waterproof Dustproof Portable Wireless Speaker",
     images: [
-      "https://i.ibb.co/PMDZZPY/bluetooth-Speaker.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Xiaomi Mi Outdoor Speaker Bluetooth 5.0 IP55 Waterproof.webp",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -563,7 +501,7 @@ export const products = [
     reviews: 110,
     category: "TV and Audio",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Xioami",
     isStock: true,
     overView: "Blutooth Speakers",
     isNew: true,
@@ -573,11 +511,7 @@ export const products = [
     _id: 2017,
     name: "Global Version Mi TV Stick Android TV 9.0 Smart 2K HDR 1GB RAM 8GB ROM Bluetooth 4.2 Mini TV Dongle",
     images: [
-      "https://i.ibb.co/GvBj7SV/usb.jpg",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Global Version Mi TV Stick Android TV 9.0 Smart 2K HDR.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -588,7 +522,7 @@ export const products = [
     reviews: 100,
     category: "TV Box",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Xioami",
     isStock: true,
     overView: "TV Box",
     isNew: true,
@@ -598,11 +532,7 @@ export const products = [
     _id: 2018,
     name: "Xiaomi Mijia LCD Writing Tablet With Pen 10 13.5inch Digital Drawing Message Graphics Electronic Handwriting Pad With Pen",
     images: [
-      "https://i.ibb.co/fxJkDbC/writing-Tablet.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Xiaomi Mijia LCD Writing Tablet With Pen 10 13.5inch Digital.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -613,7 +543,7 @@ export const products = [
     reviews: 70,
     category: "Tablets",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Xioami",
     isStock: true,
     overView: "Tablets",
     isNew: true,
@@ -623,11 +553,7 @@ export const products = [
     _id: 2019,
     name: "New Creative Cloth Art Home Outdoors Bluetooth Sound Box",
     images: [
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/L21 Bluetooth Earphone Wireless Earbuds 5.0 TWS.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -638,7 +564,7 @@ export const products = [
     reviews: 20,
     category: "Bluetooth Speakers",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Xioami",
     isStock: true,
     overView: "Bluetooth Speakers",
     isNew: true,
@@ -648,11 +574,7 @@ export const products = [
     _id: 2020,
     name: "Global Version Redmi Note 9 Pro 6GB RAM 64GB ROM Smartphone Mobile Phone",
     images: [
-      "https://i.ibb.co/WyvSw8N/phoneTwo.jpg",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "/clienthttps://d2oe4z990jupbo.cloudfront.net/Global Version Redmi Note 9 Pro 6GB RAM 64GB ROM.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -663,7 +585,7 @@ export const products = [
     reviews: 190,
     category: "Cell Phones",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Redmi",
     isStock: true,
     overView: "Dual Sim Phones",
     isNew: true,
@@ -673,11 +595,7 @@ export const products = [
     _id: 2021,
     name: "L21 Bluetooth Earphone Wireless Earbuds 5.0 TWS Headsets Dual Earbuds Bass Sound For Huawei Xiaomi IPhone Samsung Mobile Phones",
     images: [
-      "https://i.ibb.co/vjrLRfV/earbuds.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/L21 Bluetooth Earphone Wireless Earbuds 5.0 TWS.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -688,7 +606,7 @@ export const products = [
     reviews: 10,
     category: "Headphones",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "L21",
     isStock: true,
     overView: "Fitness Headphones",
     isNew: true,
@@ -698,11 +616,7 @@ export const products = [
     _id: 2022,
     name: "Roborock S7 Robot Vacuum Cleaner For Home Sonic Mopping Ultrasonic Carpet Clean Alexa Mop Lifting Upgrade For S5 Max",
     images: [
-      "https://i.ibb.co/09ySKVm/vaccum-Cleaner.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Roborock S7 Robot Vacuum Cleaner For Home Sonic.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -713,9 +627,9 @@ export const products = [
     reviews: 100,
     category: "Robot Clean",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Roborock",
     isStock: true,
-    overView: "Robot Clean",
+    overView: "Robot Vacuum Cleaner",
     isNew: true,
     _base: cat?.robotClean,
   },
@@ -723,11 +637,7 @@ export const products = [
     _id: 2023,
     name: "Klipsch R-120SW Powerful Detailed Home Speaker – Unit",
     images: [
-      "https://i.ibb.co/bR9LcZY/home-Speaker.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/Klipsch R-120SW Powerful Detailed Home Speaker – Unit.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -738,7 +648,7 @@ export const products = [
     reviews: 200,
     category: "TV & Audio",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Klipsch",
     isStock: true,
     overView: "Bluetooth Speaker",
     isNew: true,
@@ -748,11 +658,7 @@ export const products = [
     _id: 2024,
     name: "ZY418 Ultra-Thin Sport MP3 MP4 Music Player",
     images: [
-      "https://i.ibb.co/f9GKwRd/mp3-Player.webp",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "https://d2oe4z990jupbo.cloudfront.net/ZY418 Ultra-Thin Sport MP3 MP4 Music Player.webp",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -773,11 +679,7 @@ export const products = [
     _id: 2025,
     name: "Xiaomi Mi Watch Lite GPS Bluetooth 5.1 Smart Watch Sports Fitness Heart Rate Monitor 1.4 Inch TFTLCD Screen 5 ATM Waterproof Mi Band",
     images: [
-      "https://i.ibb.co/9hHGFnT/watchTwo.jpg",
-      "https://i.ibb.co/m6ZN7LX/soundBox.webp",
-      "https://i.ibb.co/wdV3b9q/vaccum.webp",
-      "https://i.ibb.co/tcdSfrr/blueGun.jpg",
-      "https://i.ibb.co/pw0fGmx/gaming-Controller.webp",
+      "/clienthttps://d2oe4z990jupbo.cloudfront.net/Xiaomi Mi Watch Lite GPS Bluetooth 5.1 Smart Watch.jpg",
     ],
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis repellendus dolore, facilis iste obcaecati ab nesciunt ducimus quidem molestias aut? Aut vitae error delectus itaque facilis obcaecati nemo dolore cumque. Blanditiis minus corrupti dignissimos, voluptas iusto, eligendi maiores doloremque aliquid mollitia in hic dolores pariatur doloribus dolorum totam. Facilis, dignissimos.",
@@ -788,7 +690,7 @@ export const products = [
     reviews: 90,
     category: "Smart Watches",
     colors: ["red", "blue", "green", "yellow", "black", "white"],
-    brand: "Lorem ipsum dolor sit",
+    brand: "Xioami",
     isStock: true,
     overView: "Smart Health Watch",
     isNew: true,

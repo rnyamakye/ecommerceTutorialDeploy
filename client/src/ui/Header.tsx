@@ -69,7 +69,7 @@ const Header = () => {
 
   return (
     <div className="w-full bg-whiteText md:sticky md:top-0 z-50">
-      <div className="max-w-screen-xl mx-4 md:mx-auto h-16 md:h-20  flex items-center justify-between">
+      <div className="max-w-screen-xl mx-4 md:mx-5 h-16 md:h-20  flex items-center justify-between">
         <Link to={"/"}>
           <img src={logo} alt="logo" className="w-40 md:w-44 " />{" "}
         </Link>
@@ -132,13 +132,13 @@ const Header = () => {
           </Link>
           <Link to={"/favorite"} className="relative block">
             <FiStar className="hover:text-skyText duration-200 cursor-pointer" />
-            <span className="inline-flex items-center justify-center bg-redText text-blackText absolute -top-1 -right-2 text-[9px] w-4 h-4 rounded-full">
+            <span className="inline-flex items-center justify-center bg-redText text-white absolute -top-1 -right-2 text-[9px] w-4 h-4 rounded-full">
               {favoriteProduct?.length > 0 ? favoriteProduct?.length : "0"}
             </span>
           </Link>
           <Link to={"/cart"} className="relative block">
             <FiShoppingBag className="hover:text-skyText duration-200 cursor-pointer" />
-            <span className="inline-flex items-center justify-center bg-redText text-blackText absolute -top-1 -right-2 text-[9px] w-4 h-4 rounded-full">
+            <span className="inline-flex items-center justify-center bg-redText text-white absolute -top-1 -right-2 text-[9px] w-4 h-4 rounded-full">
               {cartProduct?.length > 0 ? cartProduct?.length : "0"}
             </span>
           </Link>

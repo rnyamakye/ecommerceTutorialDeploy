@@ -7,13 +7,12 @@ const checkConfig = (server: string): Config | {} => {
   switch (server) {
     case "production":
       config = {
-        baseURL:
-          "https://ecommercebackend--ecommerce-tutorial-817f2.asia-east1.hosted.app",
+        baseURL: "http://localhost:8000"
       };
       break;
     case "local":
       config = {
-        baseURL: "https://localhost:8000",
+        baseURL: "http://localhost:8000",
       };
       break;
     default:
