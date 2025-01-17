@@ -42,14 +42,14 @@ const Categories = () => {
             <Link
               key={item?._id}
               to={`category/${item?._base}`}
-              className="w-full lg:h-auto h-60 relative group rounded-lg border-gray-200 p-3 border overflow-hidden"
+              className="w-full lg:h-auto h-40 md:h-60 relative group rounded-lg border-gray-200 p-3 border overflow-hidden"
             >
               <img
                 src={item?.image}
                 alt={item?.name}
                 className="w-full h-auto rounded-md group-hover:scale-110 duration-300"
               />
-              <div className="absolute bottom-3 w-full text-center">
+              <div className="absolute bottom-3 left-0 w-full text-center">
                 <p className="text-sm md:text-base font-semibold">
                   {item?.name}
                 </p>
