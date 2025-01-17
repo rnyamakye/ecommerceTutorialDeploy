@@ -5,3 +5,7 @@
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
 }
+
+:root{
+  background-color: rgb(253, 253, 253);
+}
