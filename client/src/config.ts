@@ -7,7 +7,8 @@ const checkConfig = (server: string): Config | {} => {
   switch (server) {
     case "production":
       config = {
-        baseURL: "https://www.techtonic.codes",
+        baseURL:
+          "https://ecommercebackend--ecommerce-tutorial-817f2.asia-east1.hosted.app",
       };
       break;
     case "local":
